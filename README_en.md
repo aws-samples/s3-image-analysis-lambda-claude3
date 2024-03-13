@@ -132,7 +132,7 @@
 5. Enter an appropriate policy name and create the policy.
 6. And return to the role associated with the lambda, verify that the inline policy is set up properly, and return to the console screen of the lambda function you created.
 7. In the Amazon S3 console, upload the image to the S3 bucket specified in the permissions and prepare a key for the object.
-8. [테스트] 탭에서 이벤트 이름을 입력하고 이벤트 JSON 부분에 아래 입력 값에 업로드한 **Bucket 명**, **객체 Key**, **원하는 Prompt**로 변경하여 테스트를 해봅니다.
+8. In the [Test] tab, enter the event name and change the event JSON part to the **Bucket Name**, **Object Key**, and **Prompt** that you uploaded in the inputs below to test it.
    ![test.png](images/test_en.png)
     ```json
     {
