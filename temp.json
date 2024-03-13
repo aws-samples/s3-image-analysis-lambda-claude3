@@ -1,0 +1,65 @@
+[
+  {
+    label: stage,
+    position: {
+      TopLeft: {
+        x: 1200,
+        y: 400
+      },
+      TopRight: {
+        x: 1900,
+        y: 400
+      },
+      BottomRight: {
+        x: 1900,
+        y: 800
+      },
+      BottomLeft: {
+        x: 1200,
+        y: 800
+      }
+    }
+  },
+  {
+    label: audience,
+    position: {
+      TopLeft: {
+        x: 200,
+        y: 600
+      },
+      TopRight: {
+        x: 1900,
+        y: 600
+      },
+      BottomRight: {
+        x: 1900,
+        y: 900
+      },
+      BottomLeft: {
+        x: 200,
+        y: 900
+      }
+    }
+  },
+  {
+    label: screen,
+    position: {
+      TopLeft: {
+        x: 1300,
+        y: 100
+      },
+      TopRight: {
+        x: 1800,
+        y: 100
+      },
+      BottomRight: {
+        x: 1800,
+        y: 350
+      },
+      BottomLeft: {
+        x: 1300,
+        y: 350
+      }
+    }
+  }
+]
