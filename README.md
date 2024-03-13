@@ -194,7 +194,7 @@
 
 ### #3 이미지에서 레이블 감지 - Result
 
-```json
+```text
 [
   {
     label: 'stage',
